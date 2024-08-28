@@ -1,0 +1,29 @@
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white; 
+    border: 1px solid black; 
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+th {
+    font-weight: normal; 
+}
+
+h3 {
+    text-align: center;
+}
+
+tr {
+    background-color: white;
+}
+
+tr:nth-child(2n) {
+    background-color: white;
+}
